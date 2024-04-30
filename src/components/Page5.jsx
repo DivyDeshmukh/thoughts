@@ -34,7 +34,7 @@ function Page5() {
         className="bg-black h-[37.5vh] w-[37.5vw] min-w-[340px] rounded-2xl"
       >
         <video
-          src="../../public/page5-video.mp4"
+          src="https://assets.mixkit.co/videos/preview/mixkit-excited-girl-talking-on-video-call-with-her-cell-phone-8745-large.mp4"
           autoPlay
           muted
           loop
