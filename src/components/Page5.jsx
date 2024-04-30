@@ -34,7 +34,7 @@ function Page5() {
         className="bg-black h-[37.5vh] w-[37.5vw] min-w-[340px] rounded-2xl"
       >
         <video
-          src="public\page5-video.mp4"
+          src="../../public/page5-video.mp4"
           autoPlay
           muted
           loop
