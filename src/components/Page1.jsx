@@ -103,7 +103,7 @@ function Page1() {
           className="h-auto overflow-hidden min-w-[330px] w-[40vw] rounded-xl"
         >
           <video
-            src="../../public/page1-video.mp4"
+            src="https://videos.pexels.com/video-files/3253741/3253741-uhd_3840_2160_25fps.mp4"
             className="h-full w-full object-cover"
             autoPlay
             muted
